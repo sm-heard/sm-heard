@@ -1,7 +1,8 @@
-### _hello fellow ✨ｔｅｃｈｎｏｍａｎｃｅｒｓ✨_
+![dripped out](https://img.shields.io/badge/dripped-out-BF40BF?style=plastic) ![hydrated](https://img.shields.io/badge/staying-hydrated-blue?style=plastic) ![hello world](https://img.shields.io/badge/vitamin%20d-daily-gold?style=plastic) ![hollup i'm cooking](https://img.shields.io/badge/hollup-i'm%20cooking-red?style=plastic) 
+### _hello ✨**ｔｅｃｈｎｏｍａｎｃｅｒｓ**✨_
 
 
-> # READ THE DOCUMENTATION. READ THE DOCUMENTATION. READ THE DOCUMENTATION. READ THE DOCUMENTATION. READ THE DOCUMENTATION. READ THE DOCUMENTATION. READ THE DOCUMENTATION. READ THE DOCUMENTATION. READ THE DOCUMENTATION. READ THE DOCUMENTATION. READ THE DOCUMENTATION. READ THE DOCUMENTATION.
+> # READ THE DOCUMENTATION. READ THE DOCUMENTATION. READ THE DOCUMENTATION. READ THE DOCUMENTATION. READ THE DOCUMENTATION. READ THE DOCUMENTATION.
 
 <!--
 **sm-heard/sm-heard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
