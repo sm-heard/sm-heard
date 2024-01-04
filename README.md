@@ -1,4 +1,7 @@
-### Hi there 👋
+### _hello fellow ✨ｔｅｃｈｎｏｍａｎｃｅｒｓ✨_
+
+
+> # READ THE DOCUMENTATION. READ THE DOCUMENTATION. READ THE DOCUMENTATION. READ THE DOCUMENTATION. READ THE DOCUMENTATION. READ THE DOCUMENTATION. READ THE DOCUMENTATION. READ THE DOCUMENTATION. READ THE DOCUMENTATION. READ THE DOCUMENTATION. READ THE DOCUMENTATION. READ THE DOCUMENTATION.
 
 <!--
 **sm-heard/sm-heard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
