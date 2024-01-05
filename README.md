@@ -1,6 +1,6 @@
-![dripped out](https://img.shields.io/badge/dripped-out-BF40BF?style=plastic) ![hydrated](https://img.shields.io/badge/staying-hydrated-blue?style=plastic) ![hello world](https://img.shields.io/badge/vitamin%20d-daily-gold?style=plastic) ![hollup i'm cooking](https://img.shields.io/badge/hollup-i'm%20cooking-red?style=plastic) 
-### _hello ✨**ｔｅｃｈｎｏｍａｎｃｅｒｓ**✨_
+### ![staying hydrated](https://img.shields.io/badge/staying-hydrated-blue?style=plastic) 💧 ![vitamin d daily](https://img.shields.io/badge/vitamin%20d-daily-gold?style=plastic) ☀️ ![code committed](https://img.shields.io/badge/code-committed-BF40BF?style=plastic) 💻 ![hollup i'm cooking](https://img.shields.io/badge/hollup-i'm%20cooking-red?style=plastic) 🔥
 
+### _hello ✨**ｔｅｃｈｎｏｍａｎｃｅｒｓ**✨_
 
 > # READ THE DOCUMENTATION. READ THE DOCUMENTATION. READ THE DOCUMENTATION. READ THE DOCUMENTATION. READ THE DOCUMENTATION. READ THE DOCUMENTATION.
 
